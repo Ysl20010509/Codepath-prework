@@ -39,11 +39,16 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+Game Button Behavior & More than 4 game button:
 ![](http://g.recordit.co/hHywWyow2q.gif)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
-
+Start/End Button Behavior:
+![](http://g.recordit.co/1M03iV9NzV.gif)
+Losing a Game & give 3 strikes:
+![](http://g.recordit.co/lSiWmOuEad.gif)
+Winning a Game & Speed up &:
+![](http://g.recordit.co/07AenNu9NG.gif)
+Random Secret Pattern:
+![](http://g.recordit.co/zXbMu4Su2T.gif)
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 [YOUR ANSWER HERE]
