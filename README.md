@@ -39,6 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+
 Game Button Behavior & More than 4 game button:
 ![](http://g.recordit.co/hHywWyow2q.gif)
 Start/End Button Behavior:
@@ -56,10 +57,15 @@ Random Secret Pattern:
 https://developer.mozilla.org/en-US/docs/web/javascript/reference/global_objects/math/random]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+
+[The first challenge that I met in this submission is when I implement my guess function, where I need to make a conditional statement of progress == pattern.length-1. Since I was not familiar with javascript, I used length() instead of length, treating it as a function. Then I found out that the function wasn't working as I expected, and I step by step went over the logistics to make sure I had the correct structure, then I suspected that it was the length() and I searched it online and found out it is a property in javascript instead of a function, and fixed the issue.
+
+Another problem that I was facing happened when I implemented the optional random pattern feature, and I found that application only generates a pattern and make sound when I clicked start and stop one time, and nothing would happen when I first click on start after I refresh the page. I didn't think it was an issue and thought it was just a lagging issue of Glitch until when I need to make the GIFs and put the preview to the website view, and the problem still occurs. Then I started to check my code, trying to remember when was this phenomenom start to happen. Luckily, I found out that I put the forloop of generating the random pattern in my StopGame function instead of StartGame, which made the game only start to work after the "Stop" button is clicked one time. I moved my forloop to where it belongs and fixed the issue.
+
+Lastly, when I was trying to record my GIFs, I didn't click on the Link of Recordit and searched it on Google, which led me to the wrong site and downloaded a wrong software. I realized it as soon as I opened the software and deleted it immediately, and found the link of the real Recordit on the prework website and successfully recorded the GIFs.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
