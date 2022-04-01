@@ -45,12 +45,13 @@ Start/End Button Behavior:
 ![](http://g.recordit.co/1M03iV9NzV.gif)
 Losing a Game & give 3 strikes:
 ![](http://g.recordit.co/lSiWmOuEad.gif)
-Winning a Game & Speed up &:
+Winning a Game & Speed up:
 ![](http://g.recordit.co/07AenNu9NG.gif)
 Random Secret Pattern:
 ![](http://g.recordit.co/zXbMu4Su2T.gif)
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 [The only outside resource I used in this project is the getRandomIntInclusive function that was used to implement the optional feature of making random patterns.
 https://developer.mozilla.org/en-US/docs/web/javascript/reference/global_objects/math/random]
 
