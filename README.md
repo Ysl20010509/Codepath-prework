@@ -65,7 +65,8 @@ Another problem that I was facing happened when I implemented the optional rando
 Lastly, when I was trying to record my GIFs, I didn't click on the Link of Recordit and searched it on Google, which led me to the wrong site and downloaded a wrong software. I realized it as soon as I opened the software and deleted it immediately, and found the link of the real Recordit on the prework website and successfully recorded the GIFs.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[]
+
+[A question that really came up to me during my completion of this submission is ]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
