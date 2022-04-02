@@ -2,11 +2,11 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: **Shiliang Yao**
 
-Time spent: **#** hours spent in total
+Time spent: **7** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/marble-glamorous-chill?path=README.md%3A1%3A0)
 
 ## Required Functionality
 
@@ -80,12 +80,12 @@ At last, I would like to implement a hard mode button which gives the player an 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/baf867c97e3842d3a2cdaf58256acc41)
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Shiliang Yao]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
